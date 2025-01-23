@@ -1,0 +1,19 @@
+﻿EmployeeName                                       ManagerName
+-------------------------------------------------- --------------------------------------------------
+LINDA                                              NULL
+MARY                                               LINDA
+ANJELA                                             MARY
+JASON                                              LINDA
+AHMED                                              JASON
+MARIA                                              JASON
+JOHN                                               LINDA
+JACK                                               JOHN
+JUNE                                               JOHN
+OLA                                                JACK
+ALEX                                               NULL
+LIZI                                               NULL
+
+(12 rows affected)
+
+
+Completion time: 2025-01-22T13:35:07.9537872-06:00
