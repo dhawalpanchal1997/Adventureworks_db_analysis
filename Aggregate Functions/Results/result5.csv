@@ -1,0 +1,9 @@
+﻿SalesWithCreditCard SalesWithoutCreditCard
+------------------- ----------------------
+30334               1131
+Warning: Null value is eliminated by an aggregate or other SET operation.
+
+(1 row affected)
+
+
+Completion time: 2025-01-22T13:26:40.1962561-06:00
