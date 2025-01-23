@@ -1,0 +1,35 @@
+use adventure works:
+
+Retrieve all sales records from the Adventure Works Sales table.
+Find the earliest date of sale recorded in the Adventure Works Sales table.
+Find the latest date of sale recorded in the Adventure Works Sales table.
+Retrieve sales records for a specific date, such as January 1, 2011.
+Count the number of sales records that occurred in the year 2012.
+Calculate the total sales amount for the month of March 2012.
+Retrieve sales records for the last 7 days (assume present day as '2012-12-05'.
+Calculate the average sales amount per day for the month of February 2012.
+Find the sales record with the highest sales amount in the Adventure Works Sales table.
+Retrieve sales records for the current year(assume current year as 2012).
+Calculate the total sales amount for each quarter of the year 2013.
+Count the number of sales records that occurred on weekends (Saturday and Sunday).
+Retrieve sales records for a specific date range, such as January 1, 2011, to March 31, 2012.
+Calculate the average sales amount per month for the year 2012.
+Find the sales record with the lowest sales amount in the Adventure Works Sales table.
+Retrieve sales records for the current month(assume current date as 2012-02-02).
+Count the number of sales records that occurred on weekdays (Monday to Friday).
+Calculate the total sales amount for each day of the week in the year 2012.
+Retrieve sales records for the previous year(current year=2012).
+Calculate the average sales amount per quarter for the year 2012.
+Calculate the average sales amount per month for the last 12 months(current date as '2012-05-05').
+Retrieve the top 5 sales records with the highest sales amount in the Adventure Works Sales table.
+Count the number of unique customers who made a purchase in the last 30 days(current date as '2012-05-05').
+Calculate the total sales amount for each week of the current year(current date as '2012-05-05').
+Retrieve sales records for the current quarter and the previous year(current date as '2012-05-05').
+Find the date range with the highest average sales amount per day in the Adventure Works Sales table.
+Calculate the total sales amount for each month in the last 2 years, excluding the current year (current date as '2012-05-05').
+Retrieve sales records for the current month and the same month last year(current date as '2012-05-05').
+Calculate the average sales amount per weekday for the last 3 months(current date as '2012-05-05').
+Retrieve sales records for the last 6 months, excluding weekends(current date as '2012-05-05').
+Count the number of sales records that occurred on the last day of each month in the Adventure Works Sales table.
+Calculate the average sales amount per day of the week for the last 52 weeks(current date as '2012-05-05').
+Retrieve the sales records for the previous quarter and the same quarter two years ago(current date as '2014-05-05').
