@@ -1,0 +1,14 @@
+﻿DayOfWeek                      TotalSalesAmount
+------------------------------ ---------------------
+Sunday                         8165451.1669
+Monday                         4870867.6376
+Tuesday                        6739285.0517
+Wednesday                      4672792.0455
+Thursday                       3013623.9644
+Friday                         5126143.8398
+Saturday                       5087536.6061
+
+(7 rows affected)
+
+
+Completion time: 2025-01-22T14:24:43.1562049-06:00

@@ -1,0 +1,14 @@
+﻿WeekdayName                    AvgSalesAmount
+------------------------------ ---------------------
+Monday                         11381.7077
+Tuesday                        4728.098
+Wednesday                      7952.1455
+Thursday                       5643.336
+Friday                         11840.9835
+Saturday                       9684.7611
+Sunday                         11219.3417
+
+(7 rows affected)
+
+
+Completion time: 2025-01-22T14:29:13.1119337-06:00
