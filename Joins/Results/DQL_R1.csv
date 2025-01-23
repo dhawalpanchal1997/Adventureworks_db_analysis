@@ -1,0 +1,27 @@
+﻿patient_id  patient_name
+----------- ----------------------------------------------------------------------------------------------------
+1           John Doe
+2           Jane Smith
+3           Michael Johnson
+4           Sarah Williams
+5           Emily Brown
+6           David Miller
+7           Olivia Martinez
+8           Alexander Taylor
+9           Emma Thompson
+10          Noah Wilson
+11          Isabella Rodriguez
+12          Ethan Lee
+13          Sophia Scott
+14          Mia Perez
+15          James King
+16          Benjamin Hall
+17          Abigail Allen
+18          Ella Thomas
+19          Jacob Young
+20          Charlotte Adams
+
+(20 rows affected)
+
+
+Completion time: 2025-01-22T13:51:45.7497900-06:00

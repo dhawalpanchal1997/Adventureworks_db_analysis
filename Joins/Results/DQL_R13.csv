@@ -1,0 +1,13 @@
+﻿patient_id  patient_name                                                                                         nurse_name
+----------- ---------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------
+2           Jane Smith                                                                                           Nurse Brown
+5           Emily Brown                                                                                          Nurse Harris
+8           Alexander Taylor                                                                                     Nurse Scott
+11          Isabella Rodriguez                                                                                   Nurse White
+14          Mia Perez                                                                                            Nurse Hall
+19          Jacob Young                                                                                          Nurse Wilson
+
+(6 rows affected)
+
+
+Completion time: 2025-01-22T13:53:56.1535034-06:00

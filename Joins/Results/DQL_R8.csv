@@ -1,0 +1,15 @@
+﻿patient_id  patient_name
+----------- ----------------------------------------------------------------------------------------------------
+3           Michael Johnson
+5           Emily Brown
+8           Alexander Taylor
+10          Noah Wilson
+12          Ethan Lee
+14          Mia Perez
+16          Benjamin Hall
+19          Jacob Young
+
+(8 rows affected)
+
+
+Completion time: 2025-01-22T13:53:09.7795352-06:00
