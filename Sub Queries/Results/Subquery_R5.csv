@@ -1,0 +1,12 @@
+﻿EMPLOYEE_ID FULL_NAME                                                                                             SALARY_GRADE
+----------- ----------------------------------------------------------------------------------------------------- ------------
+103010      Steven King                                                                                           2
+107665      ADELYN Kochhar                                                                                        2
+107852      Neena Kochhar                                                                                         3
+107885      Neena Kochhar                                                                                         3
+107888      FRANK Kochhar                                                                                         2
+
+(5 rows affected)
+
+
+Completion time: 2025-01-22T14:11:53.0181831-06:00

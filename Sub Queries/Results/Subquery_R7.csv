@@ -1,0 +1,14 @@
+﻿EMPLOYEE_ID FULL_NAME                                                                                             Job_Name
+----------- ----------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------
+103008      Steven King                                                                                           MANAGER
+103010      Steven King                                                                                           MANAGER
+103050      Steven King                                                                                           MANAGER
+107826      Neena Kochhar                                                                                         ANALYST
+107852      Neena Kochhar                                                                                         ANALYST
+107885      Neena Kochhar                                                                                         ANALYST
+107888      FRANK Kochhar                                                                                         ANALYST
+
+(7 rows affected)
+
+
+Completion time: 2025-01-22T14:14:03.3173018-06:00

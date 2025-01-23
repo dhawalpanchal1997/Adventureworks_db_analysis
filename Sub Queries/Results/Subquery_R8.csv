@@ -1,0 +1,9 @@
+﻿JOB_ID     Job_Title                                                                                            DEPARTMENT_ID DEPARTMENT_NAME
+---------- ---------------------------------------------------------------------------------------------------- ------------- --------------------------------------------------
+AC_ACCOUNT Public Accountant                                                                                    1001          Control And Credit
+AC_MGR     Accounting Manager                                                                                   1001          Control And Credit
+
+(2 rows affected)
+
+
+Completion time: 2025-01-22T14:14:25.5395672-06:00

@@ -1,0 +1,12 @@
+﻿EMPLOYEE_ID FULL_NAME                                                                                             SALARY                                  DEPARTMENT_NAME
+----------- ----------------------------------------------------------------------------------------------------- --------------------------------------- --------------------------------------------------
+103008      Steven King                                                                                           2400.00                                 FINANCE
+103050      Steven King                                                                                           2400.00                                 FINANCE
+107826      Neena Kochhar                                                                                         2700.00                                 FINANCE
+107885      Neena Kochhar                                                                                         1700.00                                 AUDIT
+107888      FRANK Kochhar                                                                                         1400.00                                 AUDIT
+
+(5 rows affected)
+
+
+Completion time: 2025-01-22T14:10:53.8853002-06:00

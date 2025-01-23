@@ -1,0 +1,13 @@
+﻿EMPLOYEE_ID FULL_NAME                                                                                             SALARY                                  DEPARTMENT_NAME                                    Location                                           DEPARTMENT_ID Job_Name
+----------- ----------------------------------------------------------------------------------------------------- --------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------- ----------------------------------------------------------------------------------------------------
+103007      Steven King                                                                                           2400.00                                 FINANCE                                            Sydney                                             280           President
+103008      Steven King                                                                                           2400.00                                 FINANCE                                            Sydney                                             280           MANAGER
+103050      Steven King                                                                                           2400.00                                 FINANCE                                            Sydney                                             280           MANAGER
+103254      SANDRINE BAKE                                                                                         2400.00                                 FINANCE                                            Sydney                                             280           MANAGER
+107826      Neena Kochhar                                                                                         2700.00                                 FINANCE                                            PERTH                                              290           ANALYST
+107825      Neena Kochhar                                                                                         2700.00                                 FINANCE                                            PERTH                                              290           Administration Vice President
+
+(6 rows affected)
+
+
+Completion time: 2025-01-22T14:11:21.8372654-06:00
