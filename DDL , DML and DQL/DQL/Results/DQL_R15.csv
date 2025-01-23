@@ -1,0 +1,15 @@
+﻿patient_id  patient_name                                                                                         total_fee
+----------- ---------------------------------------------------------------------------------------------------- ---------------------------------------
+1           John Doe                                                                                             5000.00
+4           Sarah Williams                                                                                       8500.00
+7           Olivia Martinez                                                                                      7500.00
+10          Noah Wilson                                                                                          7200.00
+13          Sophia Scott                                                                                         9200.00
+16          Benjamin Hall                                                                                        6800.00
+17          Abigail Allen                                                                                        7400.00
+20          Charlotte Adams                                                                                      6900.00
+
+(8 rows affected)
+
+
+Completion time: 2025-01-22T13:54:19.9500168-06:00
