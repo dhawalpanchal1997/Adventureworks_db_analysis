@@ -1,0 +1,127 @@
+1. Create Dept table with 3 columns
+-->DeptNo(int)
+-->DName(Varchar(30))
+-->Location(Varchar(30)). It must be CA, PA, TX, GA,NY. Apply this constraint while creating the table.
+
+2. After table creation, add unique constraint on DNAME column and primary key on DeptNo column (ALTER TABLE)
+
+3. Create this Employee table with following constraints. Do not insert record yet.
+
+Initially only create these columns (EID,ENAME,GENDER,DEPTNO,MID)
+-->primary key on EID
+-->Not null constraint on ENAME.
+-->Gender must be M or F
+
+4. After Table is created, Add one column called SALARY. The range of Salary must between 30000 and 80000. Put constraint for this.
+
+5. Add foreign key constraint on Deptno column . This will reference Dept Table.
+
+6. Now Insert records in DEPT table as per screenshot
+
+insert into dept values(10,'SALES','CA'),(20,'IT','GA'),(30,'FINANCE','PA'),(40,'MARKETING','TX')
+
+7. Insert record in Employee table as per screenshot
+
+insert into emp values(1,'LINDA','F',10,null,75000),(2,'MARY','F',10,1,40000),(3,'ANJELA','F',10,2,32000),(4,'JASON','M',20,1,50000),(5,'AHMED','M',20,4,30000),(6,'MARIA','F',20,4,40000),(7,'JOHN','M',30,1,60000),(8,'JACK','M',30,7,55000),(9,'JUNE','F',30,7,40000),(10,'OLA','M',30,8,35000)
+
+8. create table Sales(SID int primary key,sales money,sdate date,EID int)
+
+9. After table is created, add foreign key on EID. This EID should reference Employee table primary key
+
+10. Insert the records:
+insert into Sales values(101,4000,'2005-10-10',1),(102,2300,'2006-01-12',1),(103,9000,'2005-06-20',2),(104,4500,'2007-02-10',2),(105,3200,'2007-02-27',3),(106,2100,'2008-05-25',3),(107,6200,'2008-04-14',4),(108,1900,'2009-10-24',4),(109,9100,'2009-03-20',5),(110,7600,'2010-12-12',5),(111,8300,'2010-09-15',6),(112,4800,'2010-06-23',6),(113,3900,'2010-08-10',7),(114,8100,'2010-11-14',7),(115,4900,'2011-10-19',8),(116,5000,'2011-04-20',8),(117,8400,'2011-05-24',8),(118,2700,'2011-10-12',9),(119,7100,'2012-08-20',9),(120,4100,'2012-03-15',9),(121,2100,'2012-03-15',10),(122,9300,'2012-09-15',10)
+11. Display the name of the employees who did sales between year 2008 and 2012
+
+12. Display the name of employees who are not doing any sales
+
+13. Display sales information (SID,Sales, Ename) for employees who works in department 10 or 20
+
+14. Display Ename, Sales and Sdate according to desc order of year
+
+15. Display the name of the employees who are getting more salary than Ethan and Steven
+
+16. Display the DNAME and total salary of that department, but include only those employees who gets salary more than 40000.
+
+17. Modify the previous query and show the name of those departments and total salary who have at least 4 employees.
+
+18. Display the name and manager name of all the employees including the name of Top level employee
+
+19. Display the Ename and average, total and max sales done by them
+
+20. Display the sales information from sales only for dept IT and Finance
+
+21. Display dname,ename,salary for top 2 employees salary wise  only for IT department. Use ranking function
+
+22. Display top 2 salaried employees from every department. Show Dname, Ename and Salary
+
+23. Display the department name and total sales done by those department.     
+
+24. Display the name and sales for those employees who do sales in October
+
+25. Display the name of those employees who reports to Miranda.
+
+26. Display the even number records from employee table
+
+27. Display the odd number records from employee table
+
+28. Make the copy of all three tables only with structure. Record should not copy into new tables 
+Give similar kind of name to new structures
+
+29. Now transfer the records from older structure into new structure. 
+
+=====>Now perform these queries in new table structures. It will not disturb your original structure
+
+30. Increase the sales by 20% for dept IT
+
+31. Increse salary by 30% for Finance and Sales dept employees
+
+32. Increase salary by 1000 for employees who report to Miranda
+
+33. Add ten days in sdate for employee Nancy, OLA and Sylvia.Change should be permanent
+
+34. Increase sales by 2000 for employees who belongs to department 10 or 20
+
+35. Drop all the sales records for Finance department
+
+--------------------------------------------------------------------------------------------------------------------------
+create table candidate(sname varchar(20))
+insert into candidate values('Nitin,Gupta'),('Abhinav,Atrey'),('Vivek,Singh')
+
+1. select the candidates name and display - instead of comma between firstName and Lastname (Use Stuff function)
+
+2.Display lastname in reverse order
+
+3.Display firstname and lastname as separate column from table
+
+4.Display name of employees who did sales on Monday or Wednesday
+
+5.Display name of employees who did sales before year 2008
+
+6.Display name of employees who are doing sales for more than 10 years
+
+
+---If we have Regular view and if we drop the table, or drop the column, or alter the column, then it will change defination of the view and view will become dangling view.
+
+Schemabind view:This is the view where we are binding the schema to the view and you are not allowed to perform DDL operation on the table which affect the defination of the view.
+
+1. We have to use two part naming convention schema name.tablename
+2. We cannot write select *
+
+with check option
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
