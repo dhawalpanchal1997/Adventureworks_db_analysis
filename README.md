@@ -44,23 +44,48 @@ git clone https://github.com/dhawalpanchal1997/Adventureworks_db_analysis.git
 
 This repository contains SQL scripts categorized by different business use cases. Below are the main features and examples:
 
-1. **Sales Analysis**
+1. **Aggregate Functions**
    - Query sales trends by date, region, or product.
    - Analyze revenue and profit margins.
 
-2. **Customer Insights**
+2. **DDL/DML/DQL**
    - Customer segmentation based on demographics.
    - Identify top customers by sales.
 
-3. **Product Performance**
+3. **Joins**
    - Evaluate product sales and profitability.
    - Analyze inventory levels and turnover rates.
 
-4. **Employee Analysis**
+4. **Sub Queries**
    - Insights into employee roles and performance metrics.
 
-5. **Other Business Scenarios**
+5. **System Functions**
    - Custom queries addressing specific business questions.
+
+6. **Wild Card**
+   - This SQL file contains queries and operations on the AdventureWorks2012 database and a custom sample table:
+
+**Employee Queries:**
+
+* Find employees with job titles starting with 'E'.
+* Find employees with job titles containing specific patterns (e.g., 'E', 'u', 's', 'a').
+* Find employees meeting custom conditions.
+
+**Person Queries:**
+
+* Fetch persons with a middle name.
+* List persons with first names starting with 'M' and last names ending in 'n'.
+
+**Sample Table Operations:**
+
+* Create and populate `sample_001` with sample rows.
+* Use pattern-matching queries to filter rows based on `_`, `%`, and `/`.
+
+**The file demonstrates advanced SQL techniques like:**
+
+* Pattern matching
+* Conditional filtering
+* Table operations 
 
 ## Requirements
 
